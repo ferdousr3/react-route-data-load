@@ -1,0 +1,9 @@
+.friend-detail{
+  margin-top: 30px;
+}
+.friend-detail h1,h2,h4,h5,h6{
+  margin: 5px 0px;
+}
+.friend-detail h5,h6{
+  font-size: 15px;
+}

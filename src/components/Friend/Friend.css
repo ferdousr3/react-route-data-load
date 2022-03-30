@@ -1,0 +1,25 @@
+.friend {
+  padding: 20px;
+  margin: 20px;
+  box-shadow: 0 4px 20px 0 rgb(167 172 183 / 30%);
+  max-width: 600px;
+  border: 1px solid gray;
+  border-radius: 3px;
+}
+.friend h3,
+h4 {
+  margin: 5px 0px;
+}
+.friend-btn {
+  border: none;
+  padding: 0.5rem 1rem;
+  background-color: dimgray;
+  margin-top: 10px;
+  border-radius: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+.friend-link {
+  text-decoration: none;
+  margin-top: 10px;
+}

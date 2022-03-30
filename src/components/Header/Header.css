@@ -1,0 +1,7 @@
+.nav-bar{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70px;
+  box-shadow: 0 4px 20px 0 rgb(167 172 183 / 30%);
+}
